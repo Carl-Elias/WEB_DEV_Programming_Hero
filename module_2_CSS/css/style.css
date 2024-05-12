@@ -1,0 +1,20 @@
+h3{
+    /* font-size: 50px; */
+    font-family: 'Courier New', Courier, monospace;
+}
+.second{
+    /* display: none; */
+    /* visibility: hidden; jayga rekhe dibe kintu show krbena ksu */
+    box-shadow: 5px 5px 5px gray;
+}
+.adip{
+    border: 2px solid purple;
+    height: 200px;
+    margin: 30 px;
+
+    /* display: block; */
+    display: inline-block;
+}
+li{
+    /* display: inline; */
+}
